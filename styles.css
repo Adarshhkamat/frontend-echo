@@ -1,0 +1,14 @@
+body{
+font-family:Arial;
+background:#111;
+color:white;
+padding:20px;
+}
+input,button{
+padding:10px;
+margin:5px;
+}
+li{
+cursor:pointer;
+margin:8px 0;
+}

@@ -1,0 +1,9 @@
+{
+"name":"Echo Web PWA",
+"short_name":"EchoPWA",
+"start_url":"./",
+"display":"standalone",
+"background_color":"#111",
+"theme_color":"#111",
+"icons":[]
+}
